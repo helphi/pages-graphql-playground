@@ -1,4 +1,8 @@
-# pages-graphql-playground
+# graphql-playground on Github Pages
+
+<https://helphi.github.io/pages-graphql-playground/>
+
+------
 
 ```sh
 wget https://raw.githubusercontent.com/prisma/graphql-playground/master/packages/graphql-playground-html/withAnimation.html -O index.html
