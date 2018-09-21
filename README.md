@@ -1,7 +1,7 @@
 # graphql-playground on Github Pages
 
 - <https://helphi.github.io/pages-graphql-playground/> or
-- <https://helphi.github.io/pages-graphql-playground/?http://YOUR-API.com/graphql>
+- <https://helphi.github.io/pages-graphql-playground/?https://YOUR-API.com/graphql>
 
 ## scripts
 
