@@ -532,7 +532,7 @@
       root.classList.add('playgroundIn');
 
       GraphQLPlayground.init(root, {
-        endpoint: "https://api.github.com/graphql"
+        endpoint: window.location.search.substring(1) ? window.location.search.substring(1) : "https://api.github.com/graphql"
       })
     })
   </script>
